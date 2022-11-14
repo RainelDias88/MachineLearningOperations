@@ -9,63 +9,63 @@ In this section, I will provide an architectual diagram of the project and give 
 
 ## Key Steps
 Registered Dataset\
-![alt text](\rainelimages\dataset.jpg?raw=true)
+![alt text](rainelimages/dataset.jpg?raw=true)
 
 Experiment Completed\
-![alt text](\rainelimages\experimentoconcluido.jpg?raw=true)
+![alt text](rainelimages/experimentoconcluido.jpg?raw=true)
 
 Best Performing Model\
-![alt text](\rainelimages\bestmodel.jpg?raw=true)
+![alt text](rainelimages/bestmodel.jpg?raw=true)
 
 Deploying the Best Model with Authentication\
-![alt text](\rainelimages\deploy.jpg?raw=true)
+![alt text](rainelimages/deploy.jpg?raw=true)
 
 Application Insights Enabled\
-![alt text](\rainelimages\appinstrue.jpg?raw=true)
+![alt text](rainelimages/appinstrue.jpg?raw=true)
 
 Logs by logs.py Script\
-![alt text](\rainelimages\logs.jpg?raw=true)
+![alt text](rainelimages/logs.jpg?raw=true)
 
 Swagger Documentation with API Contents\
-![alt text](\rainelimages\swagger1.jpg?raw=true)
+![alt text](rainelimages/swagger1.jpg?raw=true)
 
-![alt text](\rainelimages\swagger2.jpg?raw=true)
+![alt text](rainelimages/swagger2.jpg?raw=true)
 
-![alt text](\rainelimages\swagger3.jpg?raw=true)
+![alt text](rainelimages/swagger3.jpg?raw=true)
 
-![alt text](\rainelimages\swagger4.jpg?raw=true)
+![alt text](rainelimages/swagger4.jpg?raw=true)
 
-![alt text](\rainelimages\swagger5.jpg?raw=true)
+![alt text](rainelimages/swagger5.jpg?raw=true)
 
-![alt text](\rainelimages\swagger6.jpg?raw=true)
+![alt text](rainelimages/swagger6.jpg?raw=true)
 
 Model Consumption and JSON output\
-![alt text](\rainelimages\endpointpy.jpg?raw=true)
+![alt text](rainelimages/endpointpy.jpg?raw=true)
 
-![alt text](\rainelimages\json.jpg?raw=true)
+![alt text](rainelimages/json.jpg?raw=true)
 
 Benchmarking\
-![alt text](\rainelimages\apachebenchmark1.jpg?raw=true)
+![alt text](rainelimages/apachebenchmark1.jpg?raw=true)
 
-![alt text](\rainelimages\apachebenchmark2.jpg?raw=true)
+![alt text](rainelimages/apachebenchmark2.jpg?raw=true)
 
 Pipeline Created\
-![alt text](\rainelimages\pipelinecriadoeendpoint.jpg?raw=true)
+![alt text](rainelimages/pipelinecriadoeendpoint.jpg?raw=true)
 
 Pipeline Endpoint\
-![alt text](\rainelimages\endpoint.jpg?raw=true)
+![alt text](rainelimages/endpoint.jpg?raw=true)
 
 Bankmarketing Dataset with AutoML Module\
-![alt text](\rainelimages\datasetandautoml.jpg?raw=true)
+![alt text](rainelimages/datasetandautoml.jpg?raw=true)
 
 Published Pipeline Overview\
-![alt text](\rainelimages\pipelinerestactive.jpg?raw=true)
+![alt text](rainelimages/pipelinerestactive.jpg?raw=true)
 
 Jupyter Notebook\
-![alt text](\rainelimages\runcomplete.jpg?raw=true)
+![alt text](rainelimages/runcomplete.jpg?raw=true)
 
 ML Studio with Scheduled Run\
-![alt text](\rainelimages\restendpoint.jpg?raw=true)
+![alt text](rainelimages/restendpoint.jpg?raw=true)
 
 
 ## Screen Recording
