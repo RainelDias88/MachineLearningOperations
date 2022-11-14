@@ -5,7 +5,7 @@ In this project, I will be working on with the Bank Marketing dataset, which con
 ## Architectural Diagram
 In this section, I will provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish.
 
-![alt text](\rainelimages\ArchitecturalDiagram.png?raw=true)
+![alt text](.\rainelimages\ArchitecturalDiagram.png?raw=true)
 
 ## Key Steps
 Registered Dataset\
