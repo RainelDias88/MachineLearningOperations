@@ -125,8 +125,16 @@ Benchmarking\
 
 ![alt text](rainelimages/apachebenchmark2.jpg?raw=true)
 
+
+## 7. Pipeline Created, Deployed and Consumed
+
+For this section we uploaded the sample notebook provided and made required changes in cell and ran the notebook. This created pipeline and then we deployed the pipeline which generated the endpoint for the pipeline which we consumed it.<br /><br />
+
 Pipeline Created\
 ![alt text](rainelimages/pipelinecriadoeendpoint.jpg?raw=true)
+
+Pipeline Completed
+![alt text](rainelimages/pipelinecompleted.jpg?raw=true)
 
 Pipeline Endpoint\
 ![alt text](rainelimages/endpoint.jpg?raw=true)
@@ -134,9 +142,6 @@ Pipeline Endpoint\
 Bankmarketing Dataset with AutoML Module\
 ![alt text](rainelimages/datasetandautoml.jpg?raw=true)
 
-## 7. Pipeline Created, Deployed and Consumed
-
-For this section we uploaded the sample notebook provided and made required changes in cell and ran the notebook. This created pipeline and then we deployed the pipeline which generated the endpoint for the pipeline which we consumed it.<br /><br />
 
 ![alt text](rainelimages/pipelinerestactive.jpg?raw=true)
 
