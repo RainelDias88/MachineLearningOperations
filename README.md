@@ -66,26 +66,41 @@ Following is Architecture Diagram of the project which will help have a glance o
 8. Publish Pipeline: Once pipeline is consumed we will then run the cells provided in notebook to publish the pipeline.<br /><br /><br />
 
 
-## Key Steps
-Registered Dataset\
+# Key Steps
+## 1. Registered Datasets
+
+From the following list of Registered Dataset we selected the Bank Marketing dataset.<br /><br />
+
 ![alt text](rainelimages/dataset.jpg?raw=true)
 
-Experiment Completed\
+## 2. Experiment Completed
+
+The Experiment displaying complete status.<br /><br />
+
 ![alt text](rainelimages/experimentoconcluido.jpg?raw=true)
 
-Best Performing Model\
+## 3. Best Run Model
+
+Out of different algorithms tried in the Automated ML run the Best Model was ***Voting Ensemble*** which gave the AUC weighted of ***94.682%***. Then we deployed this model.<br /><br />
+
 ![alt text](rainelimages/bestmodel.jpg?raw=true)
 
-Deploying the Best Model with Authentication\
 ![alt text](rainelimages/deploy.jpg?raw=true)
 
-Application Insights Enabled\
+## 4. Enable Application Insights
+
+In order to enable logging downloaded the configuration from Azure workspace and added to project and the made changes in logs.py file to enable application insights. <br /><br />
+
 ![alt text](rainelimages/appinstrue.jpg?raw=true)
 
-Logs by logs.py Script\
+We enabled Application Insights by making its value *True* in logs.py and ran logs.py file and enabled logging successfully.<br /><br />
+
 ![alt text](rainelimages/logs.jpg?raw=true)
 
-Swagger Documentation with API Contents\
+## 5. Configuring Swagger Docs
+
+Then we configured swagger docs by installing swagger by changing the port number in bash script file and running it.<br /><br />
+
 ![alt text](rainelimages/swagger1.jpg?raw=true)
 
 ![alt text](rainelimages/swagger2.jpg?raw=true)
@@ -98,7 +113,9 @@ Swagger Documentation with API Contents\
 
 ![alt text](rainelimages/swagger6.jpg?raw=true)
 
-Model Consumption and JSON output\
+## 6. Consuming Endpoints
+Then we added endpoint uri and key from deployed model *consume* section, in endpoints.py file and running the file.<br /><br />
+
 ![alt text](rainelimages/endpointpy.jpg?raw=true)
 
 ![alt text](rainelimages/json.jpg?raw=true)
@@ -117,7 +134,10 @@ Pipeline Endpoint\
 Bankmarketing Dataset with AutoML Module\
 ![alt text](rainelimages/datasetandautoml.jpg?raw=true)
 
-Published Pipeline Overview\
+## 7. Pipeline Created, Deployed and Consumed
+
+For this section we uploaded the sample notebook provided and made required changes in cell and ran the notebook. This created pipeline and then we deployed the pipeline which generated the endpoint for the pipeline which we consumed it.<br /><br />
+
 ![alt text](rainelimages/pipelinerestactive.jpg?raw=true)
 
 Jupyter Notebook\
