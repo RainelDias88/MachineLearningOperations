@@ -54,7 +54,7 @@ social and economic context attributes
 # Architectural Diagram
 Following is Architecture Diagram of the project which will help have a glance over the steps performed in this project to achieve the desired output:
 
-![Architecture Diagram](starter_files/images/ArchitectureDiagram.png)
+![Architecture Diagram](images/ArchitectureDiagram.png?raw=true)
 
 1. AutoML Run: In this we create a Automated ML model by selecting the Bank Marking dataset from Registered Dataset and create a compute cluster (Standard_DS12_v2) and 1 as maximum number of nodes. We will be run the Automated run as a Classification and setting the Exit Criterion to 1 hour and the Concurrency to 1.
 2. Select the Best Model & Deploy: On completion of AutoML run, we will be selecting the best model and we will be deploying it and while deploying we will be using "Azure Container Instances" (ACI) and we will also enable "Authentication".
@@ -65,11 +65,6 @@ Following is Architecture Diagram of the project which will help have a glance o
 7. Consume created Pipeline: Once the pipeline is created we will runs the cells provided in notebook itself to consume the pipeline.
 8. Publish Pipeline: Once pipeline is consumed we will then run the cells provided in notebook to publish the pipeline.<br /><br /><br />
 
-
-## Architectural Diagram
-In this section, I will provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish.
-
-![alt text](rainelimages/ArchitecturalDiagram.png?raw=true)
 
 ## Key Steps
 Registered Dataset\
