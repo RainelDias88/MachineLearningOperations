@@ -153,7 +153,7 @@ ML Studio with Scheduled Run\
 
 
 ## Screen Recording
-[Link to Screen Recording](https://www.youtube.com/watch?v=KMW5_XrTePU/view?usp=sharing?usp=sharing)
+[Link to Screen Recording](https://youtu.be/DpvhH6s-8mM/view?usp=sharing?usp=sharing)
 
 ## Standout Suggestions to improve my model
   1.1 - Clean the data as this dataset contains outliers which may influence the accuracy of our predictions. When I am not using AutoML, I can manually pick out features that are most important to our prediction. I can consider using a library such as Boruta, which is a feature selection wrapper algorithm that works well with classification problem, to identify weak and/or irrelevant features that can be discarded.
