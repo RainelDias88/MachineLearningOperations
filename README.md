@@ -136,6 +136,9 @@ Pipeline Created\
 Pipeline Completed
 ![alt text](rainelimages/pipelinecompleted.jpg?raw=true)
 
+Pipeline Endpoint Active
+![alt text](rainelimages/pipelineendpointeactive.jpg?raw=true)
+
 Pipeline Endpoint\
 ![alt text](rainelimages/endpoint.jpg?raw=true)
 
