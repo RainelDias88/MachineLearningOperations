@@ -54,7 +54,7 @@ social and economic context attributes
 # Architectural Diagram
 Following is Architecture Diagram of the project which will help have a glance over the steps performed in this project to achieve the desired output:
 
-![Architecture Diagram](images/ArchitectureDiagram.png?raw=true)
+![Architecture Diagram](rainelimages/ArchitectureDiagram.png?raw=true)
 
 1. AutoML Run: In this we create a Automated ML model by selecting the Bank Marking dataset from Registered Dataset and create a compute cluster (Standard_DS12_v2) and 1 as maximum number of nodes. We will be run the Automated run as a Classification and setting the Exit Criterion to 1 hour and the Concurrency to 1.
 2. Select the Best Model & Deploy: On completion of AutoML run, we will be selecting the best model and we will be deploying it and while deploying we will be using "Azure Container Instances" (ACI) and we will also enable "Authentication".
